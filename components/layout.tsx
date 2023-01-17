@@ -15,7 +15,7 @@ export default function Layout({ children, home }: Props) {
         <div className='max-w-2xl mx-auto px-4 mt-12 mb-24'>
             <Head>
                 <link rel='icon' href='/favicon.ico' />
-                <meta name='description' content='AiljxBlog——Ailjx的博客' />
+                <meta name='description' content='DSLZLBlog——DSLZL的博客' />
                 <meta
                     property='og:image'
                     content={`https://og-image.vercel.app/${encodeURI(
