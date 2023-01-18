@@ -1,6 +1,6 @@
 ---
 title: "Q群机器人命令菜单"
-date: "2023-1-17"
+date: "2023-01-17"
 ---
 
 ## Q群机器人命令菜单
@@ -64,6 +64,6 @@ date: "2023-1-17"
 .ark-question list # 列出已经设置的自定义问题
 .ark-question 列表 # 列出已经设置的自定义问题
 .ark-recruit # 明日方舟助手公招指令
-.ark-stage [limit] [now] # 明日方舟助手关卡指令
-.ark-zone [limit] [now] # 明日方舟助手地图指令
+.ark-stage [code] [limit] [now] # 明日方舟助手关卡指令
+.ark-zone [code] [limit] [now] # 明日方舟助手地图指令
 ###### 实际日期：2023-1-18
