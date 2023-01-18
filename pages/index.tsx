@@ -24,7 +24,7 @@ const Home: NextPage<Props> = ({ allPostsData }) => {
 
                 <section className='text-xl leading-normal text-center'>
                     <p>你好，我是 DSLZL</p>
-                    <p>一个又菜又爱玩的前端小白，欢迎来到我的博客！</p>
+                    <p>没想到吧？</p>
                 </section>
 
                 <section className='text-xl leading-normal pt-4'>
