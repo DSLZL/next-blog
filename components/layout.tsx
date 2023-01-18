@@ -17,6 +17,15 @@ export default function Layout({ children, home }: Props) {
                 <link rel='icon' href='/favicon.ico' />
                 <meta name='description' content='DSLZLBlog——DSLZL的博客' />
                 <meta name="google-site-verification" content="saJqm_tgoEs0g0sSSk4yXjFNHlVPAC_QKyq1rO01VN8" />
+                <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-5CRFTW3JT7"></script>
+                <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                    
+                  gtag('config', 'G-5CRFTW3JT7');
+                </script>
                 <meta
                     property='og:image'
                     content={`https://og-image.vercel.app/${encodeURI(
