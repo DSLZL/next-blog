@@ -20,6 +20,7 @@ const Home: NextPage<Props> = ({ allPostsData }) => {
             <div>
                 <Head>
                     <title>{siteTitle}</title>
+                    <meta name="google-site-verification" content="saJqm_tgoEs0g0sSSk4yXjFNHlVPAC_QKyq1rO01VN8" />
                 </Head>
 
                 <section className='text-xl leading-normal text-center'>
