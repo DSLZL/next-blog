@@ -16,6 +16,7 @@ export default function Layout({ children, home }: Props) {
             <Head>
                 <link rel='icon' href='/favicon.ico' />
                 <meta name='description' content='DSLZLBlog——DSLZL的博客' />
+                <meta name="google-site-verification" content="saJqm_tgoEs0g0sSSk4yXjFNHlVPAC_QKyq1rO01VN8" />
                 <meta
                     property='og:image'
                     content={`https://og-image.vercel.app/${encodeURI(
