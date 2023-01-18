@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+这是一个 [Next.js](https://nextjs.org/) 使用 [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)启动项目.
 
 ## 入门
 
